@@ -1,0 +1,52 @@
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Form1.resources
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\lenovo\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Form1.resources
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\utente\Documents\Progetti\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Form1.resources
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\utente\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.pdb
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Form1.resources
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\Valerio\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.pdb
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Calcolatrice.resources
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\User\Documents\Progetti\Calcolatrice (Visual Studio 2019)\Calcolatrice\obj\Debug\Calcolatrice.pdb
